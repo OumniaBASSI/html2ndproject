@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+    background-image: url("https://wallpaperbat.com/img/704147-website-wallpaper-top-free-website-background.png");
+    background-attachment: fixed;
+    background: size 1000px;
+    text-align: center;
+}
+  h1{
+    color:black;
+  }
+  h2{
+    color: blue;
+  }
+  h3{
+    color: rgb(0, 0, 12);
+  }
+  footer{
+    color:rgb(67, 67, 216) ;
+  }
+   figcaption{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+   }
